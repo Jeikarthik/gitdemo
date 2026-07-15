@@ -1,0 +1,5 @@
+print('enter 2 nos.')
+a=int(input())
+b=int(input())
+print("Product", (a*b))
+print("Div", (a/b))

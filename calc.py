@@ -1,3 +1,4 @@
+
 print('enter nos')
 a=int(input())
 b=int(input())
